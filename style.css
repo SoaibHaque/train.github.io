@@ -19,13 +19,15 @@ input.input_for_soaib {
     outline: none;
     margin: .5rem .2rem;
     padding: .2rem 1rem;
-    width: 15rem;
-    height: 1.5rem;
+    width: 10rem;
+    height: 5rem;
     font-size: large;
     border: none;
     border-radius: .3rem;
 }
-
+div.passenger_for_soaib>input.input_for_soaib{
+    display: inline-block;
+}
 button.btn_for_soaib {
     outline: none;
     cursor: pointer;
