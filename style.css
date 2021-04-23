@@ -19,7 +19,7 @@ input.input_for_soaib {
     outline: none;
     margin: .5rem .2rem;
     padding: .2rem 1rem;
-    width: 10rem;
+    width: 100rem !important;
     height: 5rem;
     font-size: large;
     border: none;
@@ -28,14 +28,17 @@ input.input_for_soaib {
 div.div_passenger_for_soaib>input.input_for_soaib{
     display: inline-block;
 }
+input.train_for_soaib{
+    width: 50rem !important;
+}
 button.btn_for_soaib {
     outline: none;
     cursor: pointer;
     color: white;
     font-size: 1rem;
-    margin: 0 1.2rem 0 0;
-    padding: .4rem 1rem;
-    border: 2px solid transparent;
+    margin: 0 1.2rem 0 0 !important;
+    padding: .4rem 1rem !important;
+    border: 2px solid transparent !important;
     background: rebeccapurple;
     transition: .3s all ease;
     font-weight: bold;
@@ -44,17 +47,19 @@ button.btn_for_soaib {
 button.btn_for_soaib:hover {
     background: yellowgreen;
     color: rebeccapurple;
-    border: 2px solid rebeccapurple;
+    border: 2px solid rebeccapurple !important;
 }
-
+input.passenger_for_soaib{
+    width: 40rem !important;
+}
 input.age_for_soaib {
-    width: 2rem;
+    width: 8rem  !important;
 }
 
 input.gender_for_soaib {
-    width: 4rem;
+    width: 4rem !important;
 }
 
 input.seat_for_soaib {
-    width: 10rem;
+    width: 30rem !important;
 }
