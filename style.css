@@ -25,7 +25,7 @@ input.input_for_soaib {
     border: none;
     border-radius: .3rem;
 }
-div.passenger_for_soaib>input.input_for_soaib{
+div.div_passenger_for_soaib>input.input_for_soaib{
     display: inline-block;
 }
 button.btn_for_soaib {
