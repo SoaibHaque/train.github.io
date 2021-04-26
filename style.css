@@ -25,6 +25,16 @@ input.input_for_soaib {
     border: none;
     border-radius: .3rem;
 }
+select.input_for_soaib {
+    outline: none;
+    margin: .5rem .2rem;
+    padding: .2rem 1rem;
+    width: 50rem !important;
+    height: 5rem;
+    font-size: large;
+    border: none;
+    border-radius: .3rem;
+}
 div.div_passenger_for_soaib>input.input_for_soaib{
     display: inline-block;
 }
