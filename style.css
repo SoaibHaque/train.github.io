@@ -35,6 +35,9 @@ select.input_for_soaib {
     border: none;
     border-radius: .3rem;
 }
+select.input_for_soaib.logins{
+    Width: 100rem !important;
+}
 div.div_passenger_for_soaib>input.input_for_soaib{
     display: inline-block;
 }
