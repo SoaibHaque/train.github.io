@@ -4533,18 +4533,19 @@
     </div>
     <div>
         <select class="input_for_soaib" name="bogi" id="bogi">
-            <option value="A2">A2</option>
-            <option value="FC">FC</option>
-            <option value="A3">A3</option>
-            <option value="3E">3E</option>
-            <option value="CC">CC</option>
-            <option value="SL">SL</option>
-            <option value="2S">2S</option>
+            <option value="AC First Class (1A)">AC First Class (1A)</option>
+            <option value="Exec. Chair Car (EC)">Exec. Chair Car (EC)</option>
+            <option value="AC 2 Tier (2A)">AC 2 Tier (2A)</option>
+            <option value="AC 3 Tier (3A)">AC 3 Tier (3A)</option>
+            <option value="AC 3 Economy (3E)">AC 3 Economy (3E)</option>
+            <option value="AC Chair car (CC)">AC Chair car (CC)</option>
+            <option value="Sleeper (SL)">Sleeper (SL)</option>
+            <option value="Second Sitting (2S)">Second Sitting (2S)</option>
         </select>
         <select class="input_for_soaib" name="type" id="type">
             <option value="GENERAL">GENERAL</option>
             <option value="LADIES">LADIES</option>
-            <option value="LOWER BERTH">LOWER BERTH</option>
+            <option value="LOWER BERTH/SR.CITIZEN">LOWER BERTH/SR.CITIZEN</option>
             <option value="DIVYAANG">DIVYAANG</option>
             <option value="TATKAL">TATKAL</option>
             <option value="PREMIUM TATKAL">PREMIUM TATKAL</option>
