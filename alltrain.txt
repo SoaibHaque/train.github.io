@@ -1,4 +1,10 @@
 `<section class="section_for_soaib">
+    <h3>Automation</h3>
+    <button id="save-all2" class="btn_for_soaib">Save</button><button id="save-and-login2" class="btn_for_soaib">Save &
+        Login</button><button class="btn_for_soaib" id="clear-all2">Clear
+        All</button>
+</section>
+<section class="section_for_soaib">
     <h3>IRCTC Login Details</h3>
     <select class="input_for_soaib logins" name="userid" id="userid" placeholder="User Id...">
         <option value="ulfat66">ulfat66</option>
@@ -4557,37 +4563,109 @@
 <section class="section_for_soaib">
     <h3>Passenger Details</h3>
     <div id="div_passenger_for_soaib passenger_1"><input class="input_for_soaib passenger_for_soaib" type="text"
-            placeholder="Passenger 1"><input class="input_for_soaib age_for_soaib" type="text" placeholder="Age"><input
-            class="input_for_soaib gender_for_soaib" type="text" placeholder="Gender"><input
-            class="input_for_soaib seat_for_soaib" type="text" placeholder="Prefrence"></div>
+            placeholder="Passenger 1"><input class="input_for_soaib age_for_soaib" type="number"
+            placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="T">Transgender</option>
+        </select><select class="input_for_soaib seat_for_soaib">
+            <option value="LB">Lower</option>
+            <option value="MB">Middle</option>
+            <option value="UB">Upper</option>
+            <option value="SL">Side Lower</option>
+            <option value="SU">Side Upper</option>
+        </select></div>
     <div id="div_passenger_for_soaib passenger_2"><input class="input_for_soaib passenger_for_soaib" type="text"
-            placeholder="Passenger 2"><input class="input_for_soaib age_for_soaib" type="text" placeholder="Age"><input
-            class="input_for_soaib gender_for_soaib" type="text" placeholder="Gender"><input
-            class="input_for_soaib seat_for_soaib" type="text" placeholder="Prefrence"></div>
+            placeholder="Passenger 2"><input class="input_for_soaib age_for_soaib" type="number"
+            placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="T">Transgender</option>
+        </select><select class="input_for_soaib seat_for_soaib">
+            <option value="LB">Lower</option>
+            <option value="MB">Middle</option>
+            <option value="UB">Upper</option>
+            <option value="SL">Side Lower</option>
+            <option value="SU">Side Upper</option>
+        </select></div>
     <div id="div_passenger_for_soaib passenger_3"><input class="input_for_soaib passenger_for_soaib" type="text"
-            placeholder="Passenger 3"><input class="input_for_soaib age_for_soaib" type="text" placeholder="Age"><input
-            class="input_for_soaib gender_for_soaib" type="text" placeholder="Gender"><input
-            class="input_for_soaib seat_for_soaib" type="text" placeholder="Prefrence"></div>
+            placeholder="Passenger 3"><input class="input_for_soaib age_for_soaib" type="number"
+            placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="T">Transgender</option>
+        </select><select class="input_for_soaib seat_for_soaib">
+            <option value="LB">Lower</option>
+            <option value="MB">Middle</option>
+            <option value="UB">Upper</option>
+            <option value="SL">Side Lower</option>
+            <option value="SU">Side Upper</option>
+        </select></div>
     <div id="div_passenger_for_soaib passenger_4"><input class="input_for_soaib passenger_for_soaib" type="text"
-            placeholder="Passenger 4"><input class="input_for_soaib age_for_soaib" type="text" placeholder="Age"><input
-            class="input_for_soaib gender_for_soaib" type="text" placeholder="Gender"><input
-            class="input_for_soaib seat_for_soaib" type="text" placeholder="Prefrence"></div>
+            placeholder="Passenger 4"><input class="input_for_soaib age_for_soaib" type="number"
+            placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="T">Transgender</option>
+        </select><select class="input_for_soaib seat_for_soaib">
+            <option value="LB">Lower</option>
+            <option value="MB">Middle</option>
+            <option value="UB">Upper</option>
+            <option value="SL">Side Lower</option>
+            <option value="SU">Side Upper</option>
+        </select></div>
     <div id="div_passenger_for_soaib passenger_5"><input class="input_for_soaib passenger_for_soaib" type="text"
-            placeholder="Passenger 5"><input class="input_for_soaib age_for_soaib" type="text" placeholder="Age"><input
-            class="input_for_soaib gender_for_soaib" type="text" placeholder="Gender"><input
-            class="input_for_soaib seat_for_soaib" type="text" placeholder="Prefrence"></div>
+            placeholder="Passenger 5"><input class="input_for_soaib age_for_soaib" type="number"
+            placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="T">Transgender</option>
+        </select><select class="input_for_soaib seat_for_soaib">
+            <option value="LB">Lower</option>
+            <option value="MB">Middle</option>
+            <option value="UB">Upper</option>
+            <option value="SL">Side Lower</option>
+            <option value="SU">Side Upper</option>
+        </select></div>
     <div id="div_passenger_for_soaib passenger_6"><input class="input_for_soaib passenger_for_soaib" type="text"
-            placeholder="Passenger 6"><input class="input_for_soaib age_for_soaib" type="text" placeholder="Age"><input
-            class="input_for_soaib gender_for_soaib" type="text" placeholder="Gender"><input
-            class="input_for_soaib seat_for_soaib" type="text" placeholder="Prefrence"></div>
+            placeholder="Passenger 6"><input class="input_for_soaib age_for_soaib" type="number"
+            placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="T">Transgender</option>
+        </select><select class="input_for_soaib seat_for_soaib">
+            <option value="LB">Lower</option>
+            <option value="MB">Middle</option>
+            <option value="UB">Upper</option>
+            <option value="SL">Side Lower</option>
+            <option value="SU">Side Upper</option>
+        </select></div>
     <div id="div_passenger_for_soaib passenger_7"><input class="input_for_soaib passenger_for_soaib" type="text"
-            placeholder="Passenger 7"><input class="input_for_soaib age_for_soaib" type="text" placeholder="Age"><input
-            class="input_for_soaib gender_for_soaib" type="text" placeholder="Gender"><input
-            class="input_for_soaib seat_for_soaib" type="text" placeholder="Prefrence"></div>
+            placeholder="Passenger 7"><input class="input_for_soaib age_for_soaib" type="number"
+            placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="T">Transgender</option>
+        </select><select class="input_for_soaib seat_for_soaib">
+            <option value="LB">Lower</option>
+            <option value="MB">Middle</option>
+            <option value="UB">Upper</option>
+            <option value="SL">Side Lower</option>
+            <option value="SU">Side Upper</option>
+        </select></div>
     <div id="div_passenger_for_soaib passenger_8"><input class="input_for_soaib passenger_for_soaib" type="text"
-            placeholder="Passenger 8"><input class="input_for_soaib age_for_soaib" type="text" placeholder="Age"><input
-            class="input_for_soaib gender_for_soaib" type="text" placeholder="Gender"><input
-            class="input_for_soaib seat_for_soaib" type="text" placeholder="Prefrence"></div>
+            placeholder="Passenger 8"><input class="input_for_soaib age_for_soaib" type="number"
+            placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="T">Transgender</option>
+        </select><select class="input_for_soaib seat_for_soaib">
+            <option value="LB">Lower</option>
+            <option value="MB">Middle</option>
+            <option value="UB">Upper</option>
+            <option value="SL">Side Lower</option>
+            <option value="SU">Side Upper</option>
+        </select></div>
     <button id="save-passenger" class="btn_for_soaib">Save</button><button class="btn_for_soaib">Clear</button>
 </section>
 <section class="section_for_soaib">
