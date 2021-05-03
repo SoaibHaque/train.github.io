@@ -80,6 +80,10 @@ input.passenger_for_soaib {
     width: 40rem !important;
 }
 
+input.age_for_soaib {
+    width: 8rem !important;
+}
+
 input[type="date"] {
     position: relative !important;
 }
