@@ -37,11 +37,11 @@ select.input_for_soaib {
     border-radius: .3rem;
 }
 
-select.input_for_soaib.age_for_soaib {
+select.age_for_soaib {
     width: 10rem !important;
 }
 
-select.input_for_soaib.seat_for_soaib {
+select.seat_for_soaib {
     width: 40rem !important;
 }
 
@@ -78,18 +78,6 @@ button.btn_for_soaib:hover {
 
 input.passenger_for_soaib {
     width: 40rem !important;
-}
-
-input.age_for_soaib {
-    width: 8rem !important;
-}
-
-input.gender_for_soaib {
-    width: 9rem !important;
-}
-
-input.seat_for_soaib {
-    width: 30rem !important;
 }
 
 input[type="date"] {
