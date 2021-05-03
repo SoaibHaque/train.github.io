@@ -25,6 +25,7 @@ input.input_for_soaib {
     border: none;
     border-radius: .3rem;
 }
+
 select.input_for_soaib {
     outline: none;
     margin: .5rem .2rem;
@@ -35,15 +36,19 @@ select.input_for_soaib {
     border: none;
     border-radius: .3rem;
 }
-select.logins{
+
+select.logins {
     width: 100rem !important;
 }
-div.div_passenger_for_soaib>input.input_for_soaib{
+
+div.div_passenger_for_soaib>input.input_for_soaib {
     display: inline-block;
 }
-input.train_for_soaib{
+
+input.train_for_soaib {
     width: 50rem !important;
 }
+
 button.btn_for_soaib {
     font-size: 2rem !important;
     outline: none;
@@ -62,11 +67,13 @@ button.btn_for_soaib:hover {
     color: #fb792b;
     border: 2px solid #fb792b !important;
 }
-input.passenger_for_soaib{
+
+input.passenger_for_soaib {
     width: 40rem !important;
 }
+
 input.age_for_soaib {
-    width: 8rem  !important;
+    width: 8rem !important;
 }
 
 input.gender_for_soaib {
@@ -75,4 +82,17 @@ input.gender_for_soaib {
 
 input.seat_for_soaib {
     width: 30rem !important;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    background: transparent;
+    bottom: 0;
+    color: transparent;
+    cursor: pointer;
+    height: auto;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
 }
