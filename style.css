@@ -83,21 +83,3 @@ input.gender_for_soaib {
 input.seat_for_soaib {
     width: 30rem !important;
 }
-
-
-input[type="date"] {
-    position: relative !important;
-}
-
-input[type="date"]::-webkit-calendar-picker-indicator {
-    background: transparent;
-    bottom: 0;
-    color: transparent;
-    cursor: pointer;
-    height: auto;
-    left: 0;
-    position: absolute !important;
-    right: 0;
-    top: 0;
-    width: auto !important;
-}
