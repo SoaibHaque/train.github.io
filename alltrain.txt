@@ -63,7 +63,7 @@
     <h3>Train Details</h3>
     <div>
         <input list="alllist" class="input_for_soaib train_for_soaib" id="train-from" type="text" placeholder="From..">
-        <input class="input_for_soaib train_for_soaib" id="train-date" placeholder="Date..">
+        <input class="input_for_soaib train_for_soaib" id="train-date" type="date" placeholder="Date..">
     </div>
     <div>
         <input list="alllist" class="input_for_soaib train_for_soaib" id="train-to" type="text" placeholder="To..">
