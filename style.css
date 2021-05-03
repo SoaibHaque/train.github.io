@@ -37,7 +37,7 @@ select.input_for_soaib {
     border-radius: .3rem;
 }
 
-select.age_for_soaib {
+select.gender_for_soaib {
     width: 10rem !important;
 }
 
