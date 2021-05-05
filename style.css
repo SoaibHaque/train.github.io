@@ -80,6 +80,10 @@ div.checkboxdiv {
     margin-top: 2rem;
 }
 
+div.checkboxdiv>div {
+    display: inline-block;
+}
+
 #check,
 #credit,
 #UPI {
