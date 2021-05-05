@@ -84,7 +84,8 @@ div.checkboxdiv>div {
     display: inline-block !important;
 }
 
-div.checkboxdiv>div>* {
+div.checkboxdiv>div>input,
+label {
     display: inline-block !important;
 }
 
