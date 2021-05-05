@@ -1,4 +1,10 @@
 /* irctc */
+
+* {
+    user-select: none !important;
+    outline: none;
+}
+
 section.section_for_soaib {
     border-radius: 1rem;
     padding: .1rem 2rem 2rem 2rem;
@@ -55,6 +61,30 @@ div.div_passenger_for_soaib>input.input_for_soaib {
 
 input.train_for_soaib {
     width: 50rem !important;
+}
+
+input.mobile_for_soaib {
+    width: 31.34rem !important;
+}
+
+label.checkbox_for_soaib {
+    margin-right: 25rem;
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+    font-weight: bolder;
+    font-variant-caps: all-petite-caps;
+    color: white;
+}
+
+div.checkboxdiv {
+    margin-top: 2rem;
+}
+
+#check,
+#credit,
+#UPI {
+    margin: 1rem;
+    transform: scale(2);
 }
 
 button.btn_for_soaib {
