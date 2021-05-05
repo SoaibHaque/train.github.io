@@ -1,7 +1,4 @@
-`<head>
-    <link rel="stylesheet" href="style.css">
-</head>
-<section class="section_for_soaib">
+`<section class="section_for_soaib">
     <h3>Automation</h3>
     <button id="save-all2" class="btn_for_soaib">Save</button><button id="save-and-login2" class="btn_for_soaib">Save &
         Login</button><button class="btn_for_soaib" id="clear-all2">Clear
@@ -4670,10 +4667,10 @@
             <option value="SU">Side Upper</option>
         </select></div>
     <div><input class="input_for_soaib mobile_for_soaib" type="number" value="91" disabled
-            style="background:rgba(255, 255, 255, 0.582);width:4rem !important;"><input
+            style="background:rgba(255, 255, 255, 0.582);width:6rem !important;"><input
             class="input_for_soaib mobile_for_soaib" placeholder="Mobile Number" type="number"><input class="input_for_soaib mobile_for_soaib"
             type="text" placeholder="Address"><input class="input_for_soaib mobile_for_soaib" placeholder="Pin Code" type="number"></div>
-            <div class="checkboxdiv"><input id="check" type="radio" value="1"><label for="check" class="checkbox_for_soaib">Berth Confirm</label><input id="credit" type="radio" name="payment" value="1"><label for="credit" class="checkbox_for_soaib">Credit card</label><input id="UPI" type="radio" name="payment" value="1"><label for="UPI" class="checkbox_for_soaib" >UPI / BHIM</label></div>
+            <div class="checkboxdiv"><div><input id="check" type="radio" value="1"><label for="check" class="checkbox_for_soaib">Berth Confirm</label></div><div><input id="credit" type="radio" name="payment" value="1"><label for="credit" class="checkbox_for_soaib">Credit card</label></div><div><input id="UPI" type="radio" name="payment" value="1"><label for="UPI" class="checkbox_for_soaib" >UPI / BHIM</label></div></div>
     <button id="save-passenger" class="btn_for_soaib">Save</button><button class="btn_for_soaib">Clear</button>
 </section>
 <section class="section_for_soaib">
