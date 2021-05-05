@@ -84,6 +84,10 @@ div.checkboxdiv>div {
     display: inline-block !important;
 }
 
+div.checkboxdiv>div>* {
+    display: inline-block !important;
+}
+
 #check,
 #credit,
 #UPI {
