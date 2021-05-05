@@ -2,7 +2,7 @@
 
 * {
     user-select: none !important;
-    outline: none;
+    outline: none !important;
 }
 
 section.section_for_soaib {
@@ -64,7 +64,7 @@ input.train_for_soaib {
 }
 
 input.mobile_for_soaib {
-    width: 31.34rem !important;
+    width: 30.68rem !important;
 }
 
 label.checkbox_for_soaib {
@@ -77,11 +77,11 @@ label.checkbox_for_soaib {
 }
 
 div.checkboxdiv {
-    margin-top: 2rem;
+    margin-top: 2rem !important;
 }
 
 div.checkboxdiv>div {
-    display: inline-block;
+    display: inline-block !important;
 }
 
 #check,
