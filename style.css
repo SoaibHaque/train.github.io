@@ -68,7 +68,7 @@ input.mobile_for_soaib {
 }
 
 label.checkbox_for_soaib {
-    margin-right: 25rem;
+    margin-right: 15rem;
     font-size: 1.5rem;
     letter-spacing: 0.2rem;
     font-weight: bolder;
@@ -84,9 +84,8 @@ div.checkboxdiv>div {
     display: inline-block !important;
 }
 
-div.checkboxdiv>div>input,
-label {
-    display: inline-block !important;
+div.checkboxdiv>div>input {
+    width: 2rem !important;
 }
 
 #check,
