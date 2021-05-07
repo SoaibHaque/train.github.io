@@ -67,6 +67,14 @@ input.mobile_for_soaib {
     width: 30.68rem !important;
 }
 
+input.coach_for_soaib {
+    width: 50rem !important;
+}
+
+input.choice_for_soaib {
+    width: 50rem !important;
+}
+
 label.checkbox_for_soaib {
     margin-right: 15rem;
     font-size: 1.5rem;
