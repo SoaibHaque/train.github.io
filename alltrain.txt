@@ -4668,9 +4668,23 @@
         </select></div>
     <div><input class="input_for_soaib mobile_for_soaib" type="number" value="91" disabled
             style="background:rgba(255, 255, 255, 0.582);width:6rem !important;"><input
-            class="input_for_soaib mobile_for_soaib" placeholder="Mobile Number" type="number"><input class="input_for_soaib mobile_for_soaib"
-            type="text" placeholder="Address"><input class="input_for_soaib mobile_for_soaib" placeholder="Pin Code" type="number"></div>
-            <div class="checkboxdiv"><div><input id="check" type="radio" value="1"><label for="check" class="checkbox_for_soaib">Berth Confirm</label></div><div><input id="credit" type="radio" name="payment" value="1"><label for="credit" class="checkbox_for_soaib">Credit card</label></div><div><input id="UPI" type="radio" name="payment" value="1"><label for="UPI" class="checkbox_for_soaib" >UPI / BHIM</label></div></div>
+            class="input_for_soaib mobile_for_soaib" placeholder="Mobile Number" type="number"><input
+            class="input_for_soaib mobile_for_soaib" type="text" placeholder="Address"><input
+            class="input_for_soaib mobile_for_soaib" placeholder="Pin Code" type="number"></div>
+    <div class="checkboxdiv">
+        <div><input id="check" type="radio" value="1"><label for="check" class="checkbox_for_soaib">Berth
+                Confirm</label></div>
+        <div><input id="credit" type="radio" name="payment" value="1"><label for="credit"
+                class="checkbox_for_soaib">Credit card</label></div>
+        <div><input id="UPI" type="radio" name="payment" value="1"><label for="UPI" class="checkbox_for_soaib">UPI /
+                BHIM</label></div>
+    </div>
+    <div><select class="input_for_soaib choice_for_soaib">
+        <option value="Reservation Choice">Reservation Choice</option>
+        <option value="Book, only if all berths are allotted in same coach.">Book, only if all berths are allotted in same coach.</option>
+        <option value="Book, only if at least 1 lower berth is allotted.">Book, only if at least 1 lower berth is allotted.</option>
+        <option value="Book, only if 2 lower berths are allotted.">Book, only if 2 lower berths are allotted.</option>
+    </select><input class="input_for_soaib coach_for_soaib" type="text" placeholder="Preferred Coach No. "></div>
     <button id="save-passenger" class="btn_for_soaib">Save</button><button class="btn_for_soaib">Clear</button>
 </section>
 <section class="section_for_soaib">
