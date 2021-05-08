@@ -4685,7 +4685,7 @@
         <option value="Book, only if at least 1 lower berth is allotted.">Book, only if at least 1 lower berth is allotted.</option>
         <option value="Book, only if 2 lower berths are allotted.">Book, only if 2 lower berths are allotted.</option>
     </select><input class="input_for_soaib coach_for_soaib" type="text" placeholder="Preferred Coach No. "></div>
-    <button id="save-passenger" class="btn_for_soaib">Save</button><button class="btn_for_soaib">Clear</button>
+    <button id="save-passenger" class="btn_for_soaib">Save</button><button id="clear-passenger" class="btn_for_soaib">Clear</button>
 </section>
 <section class="section_for_soaib">
     <h3>Automation</h3>
