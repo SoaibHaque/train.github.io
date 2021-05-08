@@ -57,6 +57,59 @@
         <option value="otpkolkat4">otpkolkat4</option>
         <option value="otpkolkat5">otpkolkat5</option>
         <option value="otpkolkat6">otpkolkat6</option>
+        <option value="otpkolkat7">otpkolkat7</option>
+        <option value="otpkolkat8">otpkolkat8</option>
+        <option value="otpkolkat9">otpkolkat9</option>
+        <option value="uttamotp">uttamotp</option>
+        <option value="uttamotp1">uttamotp1</option>
+        <option value="uttamotp2">uttamotp2</option>
+        <option value="uttamotp3">uttamotp3</option>
+        <option value="uttamotp4">uttamotp4</option>
+        <option value="uttamotp5">uttamotp5</option>
+        <option value="uttamotp6">uttamotp6</option>
+        <option value="uttamotp7">uttamotp7</option>
+        <option value="uttamotp8">uttamotp8</option>
+        <option value="uttamotp9">uttamotp9</option>
+        <option value="yandex1">yandex1</option>
+        <option value="yandex2">yandex2</option>
+        <option value="yandex3">yandex3</option>
+        <option value="yandex4">yandex4</option>
+        <option value="yandex5">yandex5</option>
+        <option value="yandex6">yandex6</option>
+        <option value="yandex7">yandex7</option>
+        <option value="yandex8">yandex8</option>
+        <option value="yandex9">yandex9</option>
+        <option value="yandex10">yandex10</option>
+        <option value="yandex11">yandex11</option>
+        <option value="yandex12">yandex12</option>
+        <option value="yandex13">yandex13</option>
+        <option value="yandex14">yandex14</option>
+        <option value="salimm2">salimm2</option>
+        <option value="salimm3">salimm3</option>
+        <option value="salimm4">salimm4</option>
+        <option value=" salim5"> salim5</option>
+        <option value="salimm6">salimm6</option>
+        <option value="salimm7">salimm7</option>
+        <option value="salimm8">salimm8</option>
+        <option value="saimm9">saimm9</option>
+        <option value="ranajee2">ranajee2</option>
+        <option value="ranajee3">ranajee3</option>
+        <option value="ranajee4">ranajee4</option>
+        <option value="ranjeee5">ranjeee5</option>
+        <option value="ranajeee6">ranajeee6</option>
+        <option value="ranjeee7">ranjeee7</option>
+        <option value="ranjeee8">ranjeee8</option>
+        <option value="ranjeee9">ranjeee9</option>
+        <option value="habull">habull</option>
+        <option value="habull1">habull1</option>
+        <option value="habull3">habull3</option>
+        <option value="habull4">habull4</option>
+        <option value="habull5">habull5</option>
+        <option value="habull6">habull6</option>
+        <option value="habull7">habull7</option>
+        <option value="habull8">habull8</option>
+        <option value="habull9">habull9</option>
+        <option value="pparment">pparment</option>
     </select>
     <select class="input_for_soaib logins" name="userpwd" id="userpwd">
         <option value="AFRINAafrina0">AFRINAafrina0</option>
@@ -4680,12 +4733,16 @@
                 BHIM</label></div>
     </div>
     <div><select class="input_for_soaib choice_for_soaib">
-        <option value="Reservation Choice">Reservation Choice</option>
-        <option value="Book, only if all berths are allotted in same coach.">Book, only if all berths are allotted in same coach.</option>
-        <option value="Book, only if at least 1 lower berth is allotted.">Book, only if at least 1 lower berth is allotted.</option>
-        <option value="Book, only if 2 lower berths are allotted.">Book, only if 2 lower berths are allotted.</option>
-    </select><input class="input_for_soaib coach_for_soaib" type="text" placeholder="Preferred Coach No. "></div>
-    <button id="save-passenger" class="btn_for_soaib">Save</button><button id="clear-passenger" class="btn_for_soaib">Clear</button>
+            <option value="Reservation Choice">Reservation Choice</option>
+            <option value="Book, only if all berths are allotted in same coach.">Book, only if all berths are allotted
+                in same coach.</option>
+            <option value="Book, only if at least 1 lower berth is allotted.">Book, only if at least 1 lower berth is
+                allotted.</option>
+            <option value="Book, only if 2 lower berths are allotted.">Book, only if 2 lower berths are allotted.
+            </option>
+        </select><input class="input_for_soaib coach_for_soaib" type="text" placeholder="Preferred Coach No. "></div>
+    <button id="save-passenger" class="btn_for_soaib">Save</button><button id="clear-passenger"
+        class="btn_for_soaib">Clear</button>
 </section>
 <section class="section_for_soaib">
     <h3>Automation</h3>
