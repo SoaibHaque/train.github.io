@@ -2,7 +2,7 @@
     <h3>Automation</h3>
     <button id="save-all2" class="btn_for_soaib">Save</button><button id="save-and-login2" class="btn_for_soaib">Save &
         Login</button><button class="btn_for_soaib" id="clear-all2">Clear
-        All</button>
+        All</button><button class="btn_for_soaib" id="pop-all2">Popup & Login</button>
 </section>
 <section class="section_for_soaib">
     <h3>IRCTC Login Details</h3>
