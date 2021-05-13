@@ -4618,10 +4618,12 @@
     <div class="div_passenger_for_soaib passenger_1"><input class="input_for_soaib passenger_for_soaib" type="text"
             placeholder="Passenger 1"><input class="input_for_soaib age_for_soaib" type="number"
             placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="">Select</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
             <option value="T">Transgender</option>
         </select><select class="input_for_soaib seat_for_soaib">
+            <option value="">Select</option>
             <option value="LB">Lower</option>
             <option value="MB">Middle</option>
             <option value="UB">Upper</option>
@@ -4631,10 +4633,12 @@
     <div class="div_passenger_for_soaib passenger_2"><input class="input_for_soaib passenger_for_soaib" type="text"
             placeholder="Passenger 2"><input class="input_for_soaib age_for_soaib" type="number"
             placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="">Select</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
             <option value="T">Transgender</option>
         </select><select class="input_for_soaib seat_for_soaib">
+            <option value="">Select</option>
             <option value="LB">Lower</option>
             <option value="MB">Middle</option>
             <option value="UB">Upper</option>
@@ -4644,10 +4648,12 @@
     <div class="div_passenger_for_soaib passenger_3"><input class="input_for_soaib passenger_for_soaib" type="text"
             placeholder="Passenger 3"><input class="input_for_soaib age_for_soaib" type="number"
             placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="">Select</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
             <option value="T">Transgender</option>
         </select><select class="input_for_soaib seat_for_soaib">
+            <option value="">Select</option>
             <option value="LB">Lower</option>
             <option value="MB">Middle</option>
             <option value="UB">Upper</option>
@@ -4657,10 +4663,12 @@
     <div class="div_passenger_for_soaib passenger_4"><input class="input_for_soaib passenger_for_soaib" type="text"
             placeholder="Passenger 4"><input class="input_for_soaib age_for_soaib" type="number"
             placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="">Select</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
             <option value="T">Transgender</option>
         </select><select class="input_for_soaib seat_for_soaib">
+            <option value="">Select</option>
             <option value="LB">Lower</option>
             <option value="MB">Middle</option>
             <option value="UB">Upper</option>
@@ -4670,10 +4678,12 @@
     <div class="div_passenger_for_soaib passenger_5"><input class="input_for_soaib passenger_for_soaib" type="text"
             placeholder="Passenger 5"><input class="input_for_soaib age_for_soaib" type="number"
             placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="">Select</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
             <option value="T">Transgender</option>
         </select><select class="input_for_soaib seat_for_soaib">
+            <option value="">Select</option>
             <option value="LB">Lower</option>
             <option value="MB">Middle</option>
             <option value="UB">Upper</option>
@@ -4683,10 +4693,12 @@
     <div class="div_passenger_for_soaib passenger_6"><input class="input_for_soaib passenger_for_soaib" type="text"
             placeholder="Passenger 6"><input class="input_for_soaib age_for_soaib" type="number"
             placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="">Select</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
             <option value="T">Transgender</option>
         </select><select class="input_for_soaib seat_for_soaib">
+            <option value="">Select</option>
             <option value="LB">Lower</option>
             <option value="MB">Middle</option>
             <option value="UB">Upper</option>
@@ -4696,10 +4708,12 @@
     <div class="div_passenger_for_soaib passenger_7"><input class="input_for_soaib passenger_for_soaib" type="text"
             placeholder="Passenger 7"><input class="input_for_soaib age_for_soaib" type="number"
             placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="">Select</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
             <option value="T">Transgender</option>
         </select><select class="input_for_soaib seat_for_soaib">
+            <option value="">Select</option>
             <option value="LB">Lower</option>
             <option value="MB">Middle</option>
             <option value="UB">Upper</option>
@@ -4709,10 +4723,12 @@
     <div class="div_passenger_for_soaib passenger_8"><input class="input_for_soaib passenger_for_soaib" type="text"
             placeholder="Passenger 8"><input class="input_for_soaib age_for_soaib" type="number"
             placeholder="Age"><select class="input_for_soaib gender_for_soaib">
+            <option value="">Select</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
             <option value="T">Transgender</option>
         </select><select class="input_for_soaib seat_for_soaib">
+            <option value="">Select</option>
             <option value="LB">Lower</option>
             <option value="MB">Middle</option>
             <option value="UB">Upper</option>
